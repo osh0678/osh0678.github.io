@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Skilled Java Developer with 1+years of experience in the fullstack creating dynamic web applications.
+      Skilled Java Developer with 1+years of experience in the fullstack/DevOps creating dynamic web applications.
 
 education:
     - degree: Hacking Security
@@ -75,7 +75,7 @@ education:
 experiences:
     - role: Lead Developer
       time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      company: Seoul Moblie Telecom, Seoul
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
