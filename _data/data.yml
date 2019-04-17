@@ -47,7 +47,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Skilled Java Developer with 1+years of experience in the fullstack/DevOps creating dynamic web applications.
+      Skilled Java Developer with 4+years of experience in the fullstack/DevOps creating dynamic web applications.
 
 education:
     - degree: Hacking Security
@@ -73,8 +73,8 @@ education:
           - Bullet point
 
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
+    - role: Junior Programmer
+      time: 2018 - Present
       company: Seoul Moblie Telecom, Seoul
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
@@ -90,8 +90,8 @@ experiences:
           - Bullet point
           - Bullet point
 
-    - role: Senior Software Engineer
-      time: 2014 - 2015
+    - role: DevOps Junior, Operational Manager
+      time: 2015 - 2017
       company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
