@@ -31,11 +31,11 @@ sidebar:
       - idiom: Korean
         level: native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: German
+        level: Basic
 
     interests:
-      - item: Error Fixing
+      - item: Badminton
         link:
 
       - item: Computer Game(League Of Legends)
@@ -47,24 +47,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+      Skilled Java Developer with 1+years of experience in the fullstack creating dynamic web applications.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Hacking Security
+      university: Hansei Cyber Security HighSchool
+      time: 2013 - 2016
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Studied C, Data structor, Server, Network, Computer Science 
 
           - Bullet point
           - Bullet point
