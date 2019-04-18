@@ -124,8 +124,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: JAVA & Spring Framework
+      - name: JAVA 
         level: 98%
+
+      - name: Spring Framework
+        level: 48%
 
       - name: Javascript & jQuery
         level: 70%
