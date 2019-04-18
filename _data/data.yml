@@ -75,8 +75,13 @@ experiences:
         aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
         architecto beatae vitae dicta sunt explicabo.
 
-          - Bullet point
-          - Bullet point
+          - JAVA
+          - SpringFramework
+          - JSP
+          - LINUX
+          - Shell
+          - Oracle
+          - Mysql
 
     - role: DevOps Junior, Operational Manager
       time: 2015 - 2017
@@ -88,24 +93,25 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+          - JAVA
+          - JSP
+          - LINUX
+          - Shell
+          - Oracle
+          - Mysql
 
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
 
     assignments:
       - title: Company Statistics View Site
         link: "#hook"
-        tagline: "JAVA and Cobra Framework(Company lagacy) to statistics web application based on boss and business team requirements."
+        tagline: "JAVA and lagacy Framework to statistics web application based on boss and business team requirements."
 
       - title: SSADAO Message Web Site
         link: "#"
-        tagline: "JAVA and Cobra Framework(Company lagacy) to Messaging Sending web application base."
+        tagline: "JAVA and lagacy Framework to Messaging Sending web application base."
 
       - title: Operating Administrator Site
         link: "#"
