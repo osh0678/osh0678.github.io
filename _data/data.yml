@@ -38,10 +38,11 @@ sidebar:
       - item: Badminton
         link:
 
-      - item: Computer Game(League Of Legends)
+      - item: Computer Game
+      (League Of Legends)
         link:
 
-      - item: Travaling
+      - item: Traveling
         link:
 
 career-profile:
@@ -100,19 +101,19 @@ projects:
     assignments:
       - title: Company Statistics View Site
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "JAVA and Cobra Framework(Company lagacy) to statistics web application based on boss and business team requirements."
 
       - title: SSADAO Message Web Site
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "JAVA and Cobra Framework(Company lagacy) to Messaging Sending web application base."
 
       - title: Operating Administrator Site
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "JSP and Servlets to web application based on customer requirements."
 
       - title: Message Monitoring System
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "JAVA and Swing to Messaging System monitoring apps."
 
 publications:
     title: Publications
