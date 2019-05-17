@@ -75,7 +75,7 @@ experiences:
           - Write, modify, and maintain software documentation and specifications.
           - Application testing and troubleshooting/debugging
           - Developed SQL queries in Oracle
-          - Used commons and log4j logging framework
+          - Used commons and log4j2 logging framework
           - Experience with Java Server Page (JSP), designing and developing client-side graphical user interfaces using HTML, JavaScript, JQuery, and CSS
           - Experience with SQL query generation and data modeling experience
           - SpringFramework
@@ -92,7 +92,7 @@ experiences:
           Developed JSPs and Servlet.
           Install, configure and deploy software, provide quality assurance.
           Perform system administration for hosting server and client software.
-          Developed screens using Java, HTML, DHTML, CSS, JSP and JavaScript.
+          Developed screens using Java, HTML, CSS, JSP and JavaScript.
           Designed Database for the application.
           Implemented all validations and done testing.
 
