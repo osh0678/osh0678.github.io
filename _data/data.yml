@@ -110,11 +110,11 @@ projects:
     assignments:
       - title: Company Statistics View Site
         link: "#hook"
-        tagline: "JAVA and lagacy Framework to statistics web application based on boss and business team requirements."
+        tagline: "JAVA and legacy Framework to statistics web application based on boss and business team requirements."
 
       - title: SSADAO Message Web Site
         link: "#"
-        tagline: "JAVA and lagacy Framework to Messaging Sending web application base."
+        tagline: "JAVA and legacy Framework to Messaging Sending web application base."
 
       - title: Operating Administrator Site
         link: "#"
