@@ -66,7 +66,7 @@ education:
 
 experiences:
     - role: Junior Developer
-      time: 2017 - 2019.12
+      time: 11/2017 - 12/2019
       company: Seoul Moblie Telecom, Seoul
       details: |
           Changed team of Web Development team and developing web application
@@ -82,7 +82,7 @@ experiences:
           - Skills : JAVA, JavaScript, SpringFramework/SpringBoot, ,JPA , Mybatis, LINUX, Shell, Oralce, Mysql, Mssql, Bootstrap
 
     - role: DevOps Junior, Operational Manager
-      time: 2015 - 2017
+      time: 10/2015 - 2017/11
       company: Seoul Moblie Telecom, Seoul
       details: |
           - Performed unit testing
