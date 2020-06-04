@@ -110,7 +110,7 @@ projects:
     assignments:
     
       - title: Settlement and Statistics website development
-        link: "#"
+        link: "#hook"
         tagline: "10/2019 ~ 11/2019"
         tagline: "Skills : SpringFramework, JavaScript, Mybatis"
         
@@ -160,7 +160,7 @@ projects:
         
         
       - title: Company Statistics View Site
-        link: "#hook"
+        link: "#"
         tagline: "JAVA and legacy Framework to statistics web application based on boss and business team requirements."
 
       - title: SSADAO Message Web Site
