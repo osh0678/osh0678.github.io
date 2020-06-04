@@ -72,12 +72,12 @@ experiences:
           Changed team of Web Development team and developing web application
 
           - Completed training project utilizing Spring MVC,boot and JSP to create a basic data modification website
-          - Write, modify, and maintain software documentation and specifications.
+          - Write, modify and maintain software documentation and specifications
           - Application testing and troubleshooting/debugging
           - Developed SQL queries in Oracle
           - Used commons and log4j2 logging framework
-          - Experience with Java Server Page (JSP), designing and developing client-side graphical user interfaces using HTML, JavaScript, JQuery, and CSS
-          - Experience with SQL query generation and data modeling experience
+          - Experience with Java Server Page (JSP), designing and developing client-side graphical user interfaces using HTML, JavaScript, JQuery and CSS
+          - Experience with SQL query generation and data modeling
           
           - Skills : JAVA, JavaScript, SpringFramework/SpringBoot, ,JPA , Mybatis, LINUX, Shell, Oralce, Mysql, Mssql, Bootstrap
 
@@ -85,14 +85,15 @@ experiences:
       time: 2015 - 2017
       company: Seoul Moblie Telecom, Seoul
       details: |
-          Performed unit testing, system testing and integration testing
-          Application and server testing and troubleshooting
-          Developed JSPs and Servlet.
-          Install, configure and deploy software, provide quality assurance.
-          Perform system administration for hosting server and client software.
-          Developed screens using Java, HTML, CSS, JSP and JavaScript.
-          Designed Database for the application.
-          Implemented all validations and done testing.
+          - Performed unit testing
+          - System and integration testing
+          - Application/Server testing and troubleshooting
+          - Developed JSPs and Servlet
+          - Installed, configured and deployed software, providing quality assurance
+          - Perform system administration for hosting server and client software
+          - Developed screens using Java, HTML, CSS, JSP and JavaScript
+          - Designed Database for applications
+          - Implemented all validations and done testing
           
           - Skills : JAVA, JavaScript, SpringBoot, LINUX, Oralce, Mysql, Mssql, MariaDB , Bootstrap, C
 
