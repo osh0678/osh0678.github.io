@@ -66,22 +66,20 @@ education:
 
 experiences:
     - role: Junior Developer
-      time: 2018 - Present
+      time: 2017 - 2019.12
       company: Seoul Moblie Telecom, Seoul
       details: |
           Changed team of Web Development team and developing web application
 
-          - Completed training project utilizing Spring MVC and JSP to create a basic data modification web
+          - Completed training project utilizing Spring MVC,boot and JSP to create a basic data modification web
           - Write, modify, and maintain software documentation and specifications.
           - Application testing and troubleshooting/debugging
           - Developed SQL queries in Oracle
           - Used commons and log4j2 logging framework
           - Experience with Java Server Page (JSP), designing and developing client-side graphical user interfaces using HTML, JavaScript, JQuery, and CSS
           - Experience with SQL query generation and data modeling experience
-          - SpringFramework
-          - LINUX
-          - Shell
-          - Mysql
+          
+          - Skills : JAVA, JavaScript, SpringFramework/SpringBoot, ,JPA , Mybatis, LINUX, Shell, Oralce, Mysql, Mssql, Bootstrap
 
     - role: DevOps Junior, Operational Manager
       time: 2015 - 2017
@@ -95,13 +93,8 @@ experiences:
           Developed screens using Java, HTML, CSS, JSP and JavaScript.
           Designed Database for the application.
           Implemented all validations and done testing.
-
-          - JAVA
-          - JSP
-          - LINUX
-          - Shell
-          - Oracle
-          - Mysql
+          
+          - Skills : JAVA, JavaScript, SpringBoot, LINUX, Oralce, Mysql, Mssql, MariaDB , Bootstrap, C
 
 projects:
     title: Projects
@@ -171,11 +164,17 @@ skills:
       - name: Javascript & jQuery
         level: 70%
 
-      - name: React
-        level: 40%
+      - name: Oracle
+        level: 80%
 
+      - name: LINUX
+        level: 80%
+        
       - name: HTML5 & CSS
         level: 95%
 
       - name: C
         level: 75%
+
+      - name: Phython
+        level: 10%
