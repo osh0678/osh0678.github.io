@@ -56,7 +56,7 @@ career-profile:
 
 education:
     - degree: Engineer Information Processing
-      university: National Technical Qualification
+      university: National Technical Qualification Test
       time: 11/2019
       
     - degree: Hacking Security
@@ -144,7 +144,7 @@ projects:
         link: "#"
         tagline: "07/2018 ~ 09/2018 <br> Skills - SpringBoot, BootStrap, Javascript, JPA, Oracle, CentOS "
         
-      - title: modification development of existing monitoring website
+      - title: Modification development of existing monitoring website
         link: "#"
         tagline: "09/2018 ~ 10/2018 <br> Skills - JSP, Oracle, CentOS"
         
