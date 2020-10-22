@@ -32,7 +32,7 @@ sidebar:
         level: Native
 
       - idiom: German
-        level: Basic
+        level: Intermediate
 
     interests:
       - item: Debugging
@@ -83,7 +83,7 @@ experiences:
           - Experience with Java Server Page (JSP), designing and developing client-side graphical user interfaces using HTML, JavaScript, JQuery and CSS
           - Experience with SQL query generation and data modeling
           
-          - Skills : JAVA, JavaScript, SpringFramework/SpringBoot, ,JPA , Mybatis, LINUX, Shell, Oralce, Mysql, Mssql, Bootstrap
+          - Skills : JAVA, JavaScript, SpringFramework/SpringBoot, JPA , Mybatis, LINUX, Shell, Oralce, Mysql, Mssql, Bootstrap
 
     - role: DevOps Junior, Operational Manager
       time: 10/2015 - 2017/11
